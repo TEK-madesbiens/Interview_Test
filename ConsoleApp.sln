@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30128.74
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp", "Console\ConsoleApp.csproj", "{60C9F45B-39DF-4E92-AE3D-A725FB36E64D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SalesTax", "UnitTest\SalesTax.csproj", "{D0FC7026-7DDC-473E-91CC-963DAE57C394}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{60C9F45B-39DF-4E92-AE3D-A725FB36E64D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60C9F45B-39DF-4E92-AE3D-A725FB36E64D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60C9F45B-39DF-4E92-AE3D-A725FB36E64D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60C9F45B-39DF-4E92-AE3D-A725FB36E64D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0FC7026-7DDC-473E-91CC-963DAE57C394}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0FC7026-7DDC-473E-91CC-963DAE57C394}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0FC7026-7DDC-473E-91CC-963DAE57C394}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0FC7026-7DDC-473E-91CC-963DAE57C394}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {942C6547-9090-42B4-9100-3FF733CE064E}
+	EndGlobalSection
+EndGlobal
